@@ -1,4 +1,4 @@
-** This mini project basically utilizes sparksql on postgres ** 
+**This mini project basically utilizes sparksql on postgres** 
 
 - Important : You may need some knowledge of Apache Spark, JDBC connector to understand the code completely. I say this because I have used it to connect my code run on jupyter notebook to my PGadmin4 (PostgresSQL DB manager). The notebook uploaded will have some lines missing - these lines would have my credentials for the sql server and hence it would be omitted. 
 
