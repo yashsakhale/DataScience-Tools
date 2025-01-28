@@ -1,6 +1,6 @@
 **This mini project basically utilizes sparksql on postgres** 
 
-- Important : You may need some knowledge of Apache Spark, JDBC connector to understand the code completely. I say this because I have used it to connect my code run on jupyter notebook to my PGadmin4 (PostgresSQL DB manager). The notebook uploaded will have some lines missing - these lines would have my credentials for the sql server and hence it would be omitted. 
+- Important : You may need some knowledge of Apache Spark, JDBC connector to understand the code completely. I say this because I have used it to connect my code run on jupyter notebook to my PGadmin4 (PostgresSQL DB manager). The notebook uploaded will have some lines missing - some lines would have my credentials for the sql server and hence it would be omitted 
 
 You can refer to the screenshots uploaded in the SS folder to understand what this doc explains, 
 1. To test the connection between my notebook and PGAdmin4 server I created a table that included a few columns with relevant appropriate datatytpes you can see in the screenshot "1".
